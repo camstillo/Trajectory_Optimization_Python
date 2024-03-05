@@ -1,12 +1,12 @@
-### Trajectory Optimziation with GEKKO 
+# Trajectory Optimziation with GEKKO 
 
 ## Cameron Castillo
 
-# Brief
+### Brief
 
 I this project, I use the GEKKO optimization suite to implement a trajectory optimization program. It uses an Orbital solver class from Alfonso Gonzales's [Orbital Mechanics with Python](https://www.youtube.com/watch?v=rNpnzNKQrNg&list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab) series.
 
-# Plans
+### Plans
 
 I have a few ideas about what to do with the project as time goes on:
 
