@@ -4,7 +4,7 @@
 
 ### Brief
 
-I this project, I use the GEKKO optimization suite to implement a trajectory optimization program. It uses an Orbital solver class from Alfonso Gonzales's [Orbital Mechanics with Python](https://www.youtube.com/watch?v=rNpnzNKQrNg&list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab) series.
+I this project, I use the GEKKO optimization suite to implement a trajectory optimization program. It uses an Orbital solver class from Alfonso Gonzales's [Orbital Mechanics with Python](https://www.youtube.com/watch?v=rNpnzNKQrNg&list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab) series. I will organize the project better in the future, as this includes many of my attempts to learn the GEKKO program and the optimization suite.
 
 ### Plans
 
